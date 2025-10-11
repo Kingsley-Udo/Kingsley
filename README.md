@@ -13,7 +13,7 @@ I’m an aspiring **Data Analyst** focused on uncovering insights through data s
 My work combines **SQL, Power BI, Python, and Excel** to create data-driven reports and dashboards that help organizations make informed decisions.
 
 - 📊 Skilled in data analysis and dashboard development  
-- 💡 Interested in business intelligence, finance, and data-driven strategy  
+- 💡 Interested in business intelligence, finance, data-driven strategy and generative AI 
 - 🧩 Continuously learning advanced analytics and forecasting techniques  
 
 ---
@@ -35,7 +35,7 @@ My work combines **SQL, Power BI, Python, and Excel** to create data-driven repo
 - Wrote complex **SQL joins, aggregations, and subqueries** to uncover insights into genres, actors, and revenue  
 - Optimized queries for performance and scalability
 
-**Tools:** MySQL, PostgreSQL  
+**Tools:** MySQL, CSV, Excel  
 **Key Skills:** Database Design | Query Optimization | Data Modeling  
 
 ---
@@ -56,7 +56,7 @@ My work combines **SQL, Power BI, Python, and Excel** to create data-driven repo
 |-----------|-------|
 | **Languages** | SQL, Python (Pandas, Matplotlib) |
 | **Visualization** | Power BI, Excel |
-| **Databases** | MySQL, PostgreSQL |
+| **Databases** | MySQL |
 | **Version Control** | Git, GitHub |
 | **Other Skills** | Data Cleaning, ETL, Reporting, Dashboard Design |
 
