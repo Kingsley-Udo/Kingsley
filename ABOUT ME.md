@@ -72,8 +72,8 @@ I’m a **Data Analyst** passionate about transforming complex datasets into cle
 ---
 
 ## 🎓 Certifications & Learning Path
-- 🎓 **Google Data Analytics Professional Certificate** *(In progress / completed)*  
-- 💡 **Microsoft Power BI Analyst Training**  
+- 🎓 **Google Cloud Data Analytics Professional Certificate**   
+- 💡 **Certified Microsoft Power BI Data Analyst**  
 - ☁️ **Google Cloud Big Data & Machine Learning Fundamentals**  
 - 🧩 Continuous learning through real-world projects and self-driven exploration  
 
@@ -89,9 +89,9 @@ I’m a **Data Analyst** passionate about transforming complex datasets into cle
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 🌐 [GitHub Portfolio](https://github.com)  
-- ✉️ king.ibe247@gmail.com *  
+- 💼 [LinkedIn](https://www.linkedin.com/in/onyegbule-kingsley/)  
+- 🌐 [GitHub Portfolio](https://github.com/Kingsley-Udo/Kingsley/)  
+- ✉️ king.ibe247@gmail.com  
 
 ---
 ⭐ *Thanks for visiting my portfolio! Feel free to explore my projects and connect if you’d like to collaborate or discuss data analytics.*
