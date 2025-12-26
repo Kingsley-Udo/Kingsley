@@ -90,7 +90,7 @@ I’m a **Data Analyst** passionate about transforming complex datasets into cle
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/onyegbule-kingsley/)  
-- 🌐 [GitHub Portfolio](https://github.com/Kingsley-Udo/Kingsley/)  
+- 🌐 [GitHub Portfolio](https://github.com/Kingsley-Udo/About_Me/)  
 - ✉️ king.ibe247@gmail.com  
 
 ---
